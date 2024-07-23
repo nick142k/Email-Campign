@@ -1,6 +1,3 @@
-Absolutely, here's a more engaging and informal README for your GitHub repository:
-
----
 
 # 🚀 Email Campaign Machine Learning Model
 
@@ -78,7 +75,7 @@ We're talking charts, charts, and more charts! You’ll need:
 
 Ready to dive in? Here’s how:
 
-1. **Clone the Repo**: `git clone https://github.com/shivamvishwakarmaaa/ml-project-email-campign.git`
+
 2. **Install Dependencies**: `pip install -r requirements.txt`
 3. **Run the Notebook**: Open up `email_campign_ml_modell.ipynb` and get going!
 
